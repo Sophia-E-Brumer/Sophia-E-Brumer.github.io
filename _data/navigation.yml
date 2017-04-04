@@ -1,0 +1,32 @@
+# main links
+main:
+   - title: "About"
+     url: /about_me/
+   - title: "CV"
+     url: /CV/
+   - title: "Projects"
+     url: /projects/HiWinGS/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  
+projects:
+    - title: Projects
+      children:
+      - title: "HiWinGS"
+        url: /projects/HiWinGS/
+      - title: "RIDE2"
+        url: /projects/RIDE2/
+      - title: "GAPS"
+        url: /projects/GAPS/
+
+#CV:
+#    - title: CV
+#      children:
+#      - title: "Education"
+#        url: /CV/Education/
+#      - title: "Work Experience"
+#        url: /CV/Work Experience/
+#      - title: "Teaching Experience/"
+#        url: /CV/Teaching Experience//

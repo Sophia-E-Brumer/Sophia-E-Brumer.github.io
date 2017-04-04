@@ -1,0 +1,32 @@
+
+title: My Resume
+url: #
+baseurl: #
+
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+
+#Profile information
+name: Sophia E. Brumer
+tagline: Ocean and Atmosphere Scientist
+pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#sidebar links
+email: sbrumer@ldeo.columbia.edu
+phone: +1 845 365 8767
+
+website: sophia-e-brumer.github.io/
+linkedin: sophia-e-brumer
+github: sophia-e-brumer
+#twitter: '@webjeda'
+
+
+# Tracker
+#analytics: UA-83979019-1
+#Update all the sections by editing the files inside _includes folder.
