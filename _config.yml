@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Sophia E. Brumer"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "Ocean and Atmosphere Scientist"
   location         : "New York City"
   email            : "sbrumer@ldeo.columbia.edu"
