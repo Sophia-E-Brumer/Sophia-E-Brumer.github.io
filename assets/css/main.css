@@ -3649,7 +3649,7 @@ tr, td, th {
 	display:flex;
 	-webkit-box-pack:justify;
 	justify-content:space-between;
-	padding:1em 1em 1em;
+	padding:1em 0em 0em;
 	font-family:-apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif
 }
 .masthead__inner-wrap:after {
@@ -3864,7 +3864,7 @@ tr, td, th {
 }
 .page__content+.pagination, .page__meta+.pagination, .comment__date+.pagination, .page__share+.pagination, .page__comments+.pagination {
 	margin-top:2em;
-	padding-top:2em;
+	padding-top:0em;
 	border-top:1px solid #f2f3f3
 }
 .greedy-nav {
@@ -4217,8 +4217,8 @@ transform:translate(0, 0)
 	margin-left:auto;
 	margin-right:auto;
 	clear:both;
-	margin-top:2em;
-	padding:0 1em 2em
+	margin-top:1em;
+	padding:0 0em 0em
 }
 .page__footer footer:after {
 	content:" ";
