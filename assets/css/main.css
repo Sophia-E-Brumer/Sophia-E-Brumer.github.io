@@ -3775,8 +3775,8 @@ tr, td, th {
 	margin-left:0;
 	margin-right:0;
 	clear:both;
-	margin-top:1em;
-	padding-top:1em
+	margin-top:0.5em;
+	padding-top:0.5em
 }
 .pagination::after {
 	clear:both;
@@ -4111,7 +4111,7 @@ transition:0.5s ease-in-out;
 max-height:9999px;
 overflow:visible;
 opacity:1;
-margin-top:1em;
+margin-top:0.5em;
 -webkit-transform:translate(0, 0);
 -ms-transform:translate(0, 0);
 transform:translate(0, 0)
