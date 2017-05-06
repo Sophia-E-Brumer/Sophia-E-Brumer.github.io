@@ -5769,26 +5769,26 @@ abbr[title].no-reformat:after, acronym[title].no-reformat:after {
 	display:none !important
 }
 }
-h1-CV,
-h2-CV,
-h3-CV,
-h4-CV,
-h5-CV,
-h6-CV {
+h1CV,
+h2CV,
+h3CV,
+h4CV,
+h5CV,
+h6CV {
   font-weight: 700;
 }
-a-CV {
+aCV {
   color: #35776d;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
 }
-a-CV:hover {
+aCV:hover {
   text-decoration: underline;
   color: #1d423c;
 }
-a-CV:focus {
+aCV:focus {
   text-decoration: none;
 }
 
