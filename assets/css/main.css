@@ -5796,7 +5796,7 @@ aCV:focus {
   background: #fff;
   padding: 60px;
 }
-.main-wrapper-CV .section-title {
+.main-wrapper-CV.section-title {
   text-transform: uppercase;
   font-size: 20px;
   font-weight: 500;
@@ -5805,7 +5805,7 @@ aCV:focus {
   margin-top: 0;
   margin-bottom: 20px;
 }
-.main-wrapper-CV .section-title .fa {
+.main-wrapper-CV.section-title .fa {
   width: 30px;
   height: 30px;
   margin-right: 8px;
@@ -5826,44 +5826,44 @@ aCV:focus {
   position: relative;
   top: -2px;
 }
-.main-wrapper-CV .section {
+.main-wrapper-CV.section {
   margin-bottom: 60px;
 }
-.main-wrapper-CV .experiences-section .item {
+.main-wrapper-CV.experiences-section .item {
   margin-bottom: 30px;
 }
-.main-wrapper-CV .upper-row {
+.main-wrapper-CV.upper-row {
   position: relative;
   overflow: hidden;
   margin-bottom: 2px;
 }
-.main-wrapper-CV .job-title {
+.main-wrapper-CV.job-title {
   color: #3F4650;
   font-size: 16px;
   margin-top: 0;
   margin-bottom: 0;
   font-weight: 500;
 }
-.main-wrapper-CV .time {
+.main-wrapper-CV.time {
   position: absolute;
   right: 0;
   top: 0;
   color: #97AAC3;
 }
-.main-wrapper-CV .company {
+.main-wrapper-CV.company {
   margin-bottom: 10px;
   color: #97AAC3;
 }
-.main-wrapper-CV .project-title {
+.main-wrapper-CV.project-title {
   font-size: 16px;
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 5px;
 }
-.main-wrapper-CV .projects-section .intro {
+.main-wrapper-CV.projects-section .intro {
   margin-bottom: 30px;
 }
-.main-wrapper-CV .projects-section .item {
+.main-wrapper-CV.projects-section .item {
   margin-bottom: 15px;
 }
 
