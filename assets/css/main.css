@@ -4862,7 +4862,7 @@ input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focu
 	box-shadow:0 0 10px rgba(0,0,0,0.25)
 }
 .page__content dt {
-	margin-top:1em;
+	margin-top:0.5em;
 	font-family:-apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 	font-weight:bold
 }
@@ -4967,8 +4967,8 @@ input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focu
 	text-decoration:none
 }
 .page__share {
-	margin-top:2em;
-	padding-top:1em;
+	margin-top:0.5em;
+	padding-top:0em;
 	border-top:1px solid #f2f3f3
 }
 @media (max-width: 37.5em) {
@@ -4989,7 +4989,7 @@ input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focu
 	text-transform:uppercase
 }
 .page__meta, .comment__date {
-	margin-top:2em;
+	margin-top:0.5em;
 	color:#9ba1a6;
 	font-family:-apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 	font-size:.75em
@@ -5803,7 +5803,7 @@ aCV:focus {
 
 .main-wrapper-CV {
   background: #fff;
-  padding: 60px;
+  padding: 0px 60px;
   color: #545E6C;
   font-size: 14px;
 }
@@ -5838,10 +5838,10 @@ aCV:focus {
   top: -2px;
 }
 .main-wrapper-CV .section {
-  margin-bottom: 60px;
+  margin-bottom: 15px;
 }
 .main-wrapper-CV .experiences-section .item {
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 }
 .main-wrapper-CV .upper-row {
   position: relative;
@@ -5872,7 +5872,7 @@ aCV:focus {
   margin-bottom: 5px;
 }
 .main-wrapper-CV .projects-section .intro {
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 }
 .main-wrapper-CV .projects-section .item {
   margin-bottom: 15px;
