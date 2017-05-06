@@ -5769,6 +5769,15 @@ abbr[title].no-reformat:after, acronym[title].no-reformat:after {
 	display:none !important
 }
 }
+.wrapper-CV {
+  background: #4CAC9D;
+  max-width: 960px;
+  margin: auto auto;
+  position: relative;
+  -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
 h1CV,
 h2CV,
 h3CV,
@@ -5795,6 +5804,8 @@ aCV:focus {
 .main-wrapper-CV {
   background: #fff;
   padding: 60px;
+  color: #545E6C;
+  font-size: 14px;
 }
 .main-wrapper-CV .section-title {
   text-transform: uppercase;
@@ -5867,12 +5878,3 @@ aCV:focus {
   margin-bottom: 15px;
 }
 
-.wrapper-CV {
-  background: #4CAC9D;
-  max-width: 960px;
-  margin: auto auto;
-  position: relative;
-  -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
-  -moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
-  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
-}
