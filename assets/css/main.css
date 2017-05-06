@@ -5769,7 +5769,6 @@ abbr[title].no-reformat:after, acronym[title].no-reformat:after {
 	display:none !important
 }
 }
-<<<<<<< HEAD
 .wrapper-CV {
   background: #4CAC9D;
   max-width: 960px;
@@ -5779,8 +5778,6 @@ abbr[title].no-reformat:after, acronym[title].no-reformat:after {
   -moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
-=======
->>>>>>> e916e2c26c21ba446338843b9d4cd446f1d0a44e
 h1CV,
 h2CV,
 h3CV,
