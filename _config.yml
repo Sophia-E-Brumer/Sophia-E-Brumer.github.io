@@ -6,15 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 theme: minimal-mistakes-jekyll
 
-
 # Site Settings
 locale                   : "en"
 title                    : "Sophia E. Brumer"
 title_separator          : "-"
-name                     : "Sophia E. Brumer"
-description              : "Test website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+name                     : #"Sophia E. Brumer"
+description              : "Sophia E. Brumer personal website"
+url                      : #https://sophia-e-brumer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : #https://sophia-e-brumer.github.io/ # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : #true #false # true, false (default)
@@ -78,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sophia E. Brumer"
-  avatar           : "/assets/images/profile.jpg"
-  bio              : "Ocean and Atmosphere Scientist"
+  name             : #"Sophia E. Brumer"
+  avatar           : "/assets/images/profile.JPG"
+  bio              : "''C'est pas l'homme qui prend la mer, c'est la mer qui prend l'homme'' -Renaud"
   location         : "New York City"
   email            : "sbrumer@ldeo.columbia.edu"
   uri              :
@@ -112,7 +111,7 @@ author:
 include:
   - .htaccess
   - _pages
-  #- CV/
+  - _projects
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -122,8 +121,14 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/plugins
+  - assets/js/main.js
   - assets/js/_main.js
+  - assets/css/main
   - assets/js/vendor
+  - assest/css/style*
+  - assets/fonts/
+  - assets/less/
+  - assests/plugins/
   - Capfile
   - CHANGELOG
   - config
@@ -282,4 +287,4 @@ defaults:
 compress_html:
   clippings: all
   ignore:
-    envs: development
+envs: development
