@@ -4198,7 +4198,7 @@ transform:translate(0, 0)
 	width:100%;
 	clear:both;
 	height:auto;
-	margin-top:3em;
+	margin-top:0em;
 	color:#9ba1a6;
 	-webkit-animation:intro 0.3s both;
 	animation:intro 0.3s both;
@@ -4217,13 +4217,8 @@ transform:translate(0, 0)
 	margin-left:auto;
 	margin-right:auto;
 	clear:both;
-<<<<<<< HEAD
-	margin-top:2em;
-	padding:0 1em 1em
-=======
 	margin-top:0.5em;
 	padding:0 0em 0.5em
->>>>>>> 77d0ae667a571c39d180cb820b244a8305f63ac7
 }
 .page__footer footer:after {
 	content:" ";
@@ -4790,7 +4785,7 @@ input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focu
 	margin-left:auto;
 	margin-right:auto;
 	clear:both;
-	margin-top:2em;
+	margin-top:0.5em;
 	padding-left:1em;
 	padding-right:1em;
 	-webkit-animation:intro 0.3s both;
