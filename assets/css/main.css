@@ -3649,7 +3649,7 @@ tr, td, th {
 	display:flex;
 	-webkit-box-pack:justify;
 	justify-content:space-between;
-	padding:1em 1em 1em;
+	padding:1em 0em 0em;
 	font-family:-apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif
 }
 .masthead__inner-wrap:after {
@@ -3863,8 +3863,8 @@ tr, td, th {
 	cursor:not-allowed
 }
 .page__content+.pagination, .page__meta+.pagination, .comment__date+.pagination, .page__share+.pagination, .page__comments+.pagination {
-	margin-top:2em;
-	padding-top:2em;
+	margin-top:0.2em;
+	padding-top:0em;
 	border-top:1px solid #f2f3f3
 }
 .greedy-nav {
@@ -4217,8 +4217,13 @@ transform:translate(0, 0)
 	margin-left:auto;
 	margin-right:auto;
 	clear:both;
+<<<<<<< HEAD
 	margin-top:2em;
 	padding:0 1em 1em
+=======
+	margin-top:0.5em;
+	padding:0 0em 0.5em
+>>>>>>> 77d0ae667a571c39d180cb820b244a8305f63ac7
 }
 .page__footer footer:after {
 	content:" ";
@@ -5769,7 +5774,6 @@ abbr[title].no-reformat:after, acronym[title].no-reformat:after {
 	display:none !important
 }
 }
-<<<<<<< HEAD
 .wrapper-CV {
   background: #4CAC9D;
   max-width: 960px;
@@ -5779,8 +5783,6 @@ abbr[title].no-reformat:after, acronym[title].no-reformat:after {
   -moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
-=======
->>>>>>> e916e2c26c21ba446338843b9d4cd446f1d0a44e
 h1CV,
 h2CV,
 h3CV,
