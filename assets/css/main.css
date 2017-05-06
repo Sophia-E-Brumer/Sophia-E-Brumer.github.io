@@ -5786,6 +5786,9 @@ h5CV,
 h6CV {
   font-weight: 700;
 }
+h3CV {
+	font-weight: bold
+}
 aCV {
   color: #35776d;
   -webkit-transition: all 0.4s ease-in-out;
