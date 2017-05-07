@@ -5770,6 +5770,7 @@ abbr[title].no-reformat:after, acronym[title].no-reformat:after {
 }
 }
 .wrapper-CV {
+  font-family: 'Roboto', sans-serif;
   background: #4CAC9D;
   max-width: 960px;
   margin: auto auto;
