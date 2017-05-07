@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "About Me"
 permalink: /about_me/
 excerpt: "About me."
 last_modified_at: 2017-05-06
