@@ -5803,7 +5803,9 @@ aCV:hover {
 aCV:focus {
   text-decoration: none;
 }
-
+pCV {
+  line-height: 1.5;
+}
 .main-wrapper-CV {
   background: #fff;
   padding: 5px 60px;
