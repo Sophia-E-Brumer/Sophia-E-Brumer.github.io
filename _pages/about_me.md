@@ -1,6 +1,6 @@
 ---
 title: "Home"
-permalink: /About/
+permalink: /about_me/
 excerpt: "About me."
 last_modified_at: 2017-05-06
 ---
