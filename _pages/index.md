@@ -1,0 +1,6 @@
+---
+permalink: /
+---
+
+
+Hello world!
