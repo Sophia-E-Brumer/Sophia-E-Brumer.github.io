@@ -2,6 +2,7 @@
 title: "HiWinGS"
 permalink: /projects/HiWinGS/
 excerpt: "High Wind Gas Exchange Study."
+order: 1
 last_modified_at: 2017-04-06
 ---
 
