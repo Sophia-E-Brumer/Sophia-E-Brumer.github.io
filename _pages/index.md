@@ -1,6 +1,6 @@
 ---
 permalink: /
-tite:""
+title:""
 ---
 ## Welcome to my website!
 
