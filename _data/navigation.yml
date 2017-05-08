@@ -17,13 +17,13 @@ projects:
     - title: Projects
       children:
       - title: "HiWinGS"
-        url: /projects/HiWinGS/
+        url: /projects/1_HiWinGS/
       - title: "SO GasEx"
-        url: /projects/SOGasEx/
+        url: /projects/2_SOGasEx/
       - title: "RIDE2"
-        url: /projects/RIDE2/
+        url: /projects/3_RIDE2/
       - title: "GAPS"
-        url: /projects/GAPS/
+        url: /projects/4_GAPS/
 
 #CV:
 #    - title: CV
