@@ -5857,7 +5857,7 @@ pCV {
 .main-wrapper-CV .upper-row {
   position: relative;
   overflow: hidden;
-  margin-bottom: 2px;
+  margin-bottom: 0px;
 }
 .main-wrapper-CV .job-title {
   color: #3F4650;
