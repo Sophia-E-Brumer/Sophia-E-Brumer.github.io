@@ -18,8 +18,8 @@ projects:
       children:
       - title: "HiWinGS"
         url: /projects/HiWinGS/
-	  - title: "SO GasEx"
-	    url: /projects/SOGasEx/
+      - title: "SO GasEx"
+        url: /projects/SOGasEx/
       - title: "RIDE2"
         url: /projects/RIDE2/
       - title: "GAPS"
