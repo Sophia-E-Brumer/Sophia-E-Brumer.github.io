@@ -1,6 +1,6 @@
 ---
+layout: splash
 permalink: /
-title:""
 ---
 ## Welcome to my website!
 
