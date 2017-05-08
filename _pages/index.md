@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 permalink: /
 ---
 ## Welcome to my website!
