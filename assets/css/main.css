@@ -5810,7 +5810,7 @@ aCV:focus {
 pCV {
   line-height: 1.5;
   margin-bottom: 2px;
-  display: inline-block;
+  display: block;
 }
 .main-wrapper-CV {
   background: #fff;
