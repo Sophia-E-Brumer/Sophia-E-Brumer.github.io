@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: post
 permalink: /
 ---
 ## Welcome to my website!
