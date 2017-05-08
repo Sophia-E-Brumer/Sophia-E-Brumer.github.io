@@ -5768,6 +5768,11 @@ abbr[title].no-reformat:after, acronym[title].no-reformat:after {
 .masthead, .toc, .page__share, .page__related, .pagination, .ads, .page__footer, .author__avatar, .author__content, .author__urls-wrapper, .nav__list, .adsbygoogle {
 	display:none !important
 }
+.image-caption {
+  text-align: center;
+  font-size: .8rem;
+  color: light-grey;
+}
 }
 .wrapper-CV {
   font-family: 'Roboto', sans-serif;

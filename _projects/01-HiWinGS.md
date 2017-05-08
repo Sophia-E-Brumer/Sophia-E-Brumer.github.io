@@ -14,7 +14,9 @@ The HiWinGS data set presents a unique opportunity to gain new insights on the p
 </div>
  The HiWinGS cruise took place in the North Atlantic. We left Nuuk, Greenland, on October 9 and arrived at Woods Hole, USA on November 14,  2013. The ship's track was chosen with the aim of maximizing the amount of time spent in the strongest winds. Along the track, the ship stopped at several stations for buoy deployments. Wind speeds exceeded 15 m s<sup>-1</sup> 25% of the time amounting to a total of 189 hours of wind speeds above 15 m s-1 of which 48 hours wind speeds greater than 20 m s<sup>-1</sup>. On October 25th (station 4), wind speeds exceeded 25 m s<sup>-1</sup> with gusts of 35 m <sup>-1</sup> during the St Jude storm. 
 
-![Timeseries of the 10-m neutral wind speed.](/assets/images/HiWinGS_U10_timeseries_with_video_times.png)*Timeseries of the 10-m neutral wind speed.*
+![Timeseries of the 10-m neutral wind speed.](/assets/images/HiWinGS_U10_timeseries_with_video_times.png)
+{:.image-caption}
+*Timeseries of the 10-m neutral wind speed.*
 
 {% capture notice-text %}
 * **Brumer**, **S.E.** et al. On the dependence of whitecap coverage on environmental parameters observed during HiWinGS and SO GasEx. *JPO, in review*.
