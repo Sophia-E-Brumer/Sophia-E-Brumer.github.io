@@ -18,10 +18,10 @@ The HiWinGS data set presents a unique opportunity to gain new insights on the p
 {% capture fig_img %}
 ![Foo]({{ "/assets/images/HiWinGS_U10_timeseries_with_video_times.png" | absolute_url }})
 {% endcapture %}
-<figure>
+<center><figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <center><figcaption>Time series of the 10-m neutral wind speed.</figcaption></center>
-</figure>
+  <figcaption>Time series of the 10-m neutral wind speed.</figcaption>
+</figure></center>
 
 {% capture notice-text %}
 * **Brumer**, **S.E.** et al. On the dependence of whitecap coverage on environmental parameters observed during HiWinGS and SO GasEx. *JPO, in review*.
