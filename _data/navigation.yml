@@ -24,6 +24,12 @@ projects:
         url: /projects/RIDE2/
       - title: "GAPS"
         url: /projects/GAPS/
+    - title: Topics
+      children:
+      - title:  "Whitecaps"
+        url: /projects/whitecaps/
+      - title:  "Gas Transfer"
+        url: /projects/gas_transfer/
 
 #CV:
 #    - title: CV
