@@ -2887,7 +2887,7 @@ figure.third figcaption {
 	width:100%
 }
 figcaption {
-	margin-top:-0.5em;
+	margin-top:-1em;
 	margin-bottom:0.5em;
 	color:#777a7d;
 	font-family:Georgia, Times, serif;
