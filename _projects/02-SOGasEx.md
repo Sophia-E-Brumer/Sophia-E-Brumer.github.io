@@ -10,8 +10,7 @@ The 2008 Southern Ocean Gas Exchange Experiment (SO GasEx) cruise was the third 
 
 While I did not participate in the cruise, I used the SO GasEx data in conjunction with the HiWinGS data to study the dependence of the whitecap coverage and gas trasfer velocities of CO<sub>2</sub> and DMS on wind speed and sea state.  
 
-<div>
-![Timeseries of the 10-m neutral wind speed.](/assets/images/HiWinGS_U10_timeseries_with_video_times.png)
+<div>![Timeseries of the 10-m neutral wind speed.](/assets/images/SOGasEx_U10_timeseries_with_video_times.png)
 <center><figcaption>Time series of the 10-m neutral wind speed.</figcaption>
 </center>
 </div>
