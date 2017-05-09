@@ -5,8 +5,8 @@ excerpt: "Whitecaps"
 last_modified_at: 2017-05-08
 ---
 Whitecaps are the surface signature of air-entraining breaking waves consisting of subsurface bubble clouds and surface foam patches. Easly detectable from ship and airborne visible imagery, the whitecap coverage serves as a proxy for wave breaking related processes. Whitecaps have been studied extensively since the late 1960s because of the role of wave-breaking in the air-sea exchange of gases, and the production of sea spray aerosols. 
-<<div markdown="1">![Time series of the 10-m neutral wind speed.](/assets/images/HiWinGS_U10_timeseries_with_video_times.png)
-<center><figcaption>Time series of the 10-m neutral wind speed.</figcaption>
+<<div markdown="1">![HiWinGS whitecaps](/assets/images/HiWinGS_whitecaps.png)
+<center><figcaption>Whitecaps during the St. Jude storm recorded during HiWinGS</figcaption>
 </center>
 </div>
 As wave breaking mainly depends on wind, the whitecap coverage has traditionally been parameterized as a non-linear function of wind speed. However, historical "wind-speed-only" parameterizations exhibit several orders of magnitude scatter. This scatter is thought to be largely due to varying sea state conditions. 
