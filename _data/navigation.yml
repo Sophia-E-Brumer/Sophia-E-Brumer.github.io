@@ -6,7 +6,7 @@ main:
      url: /about_me/
    - title: "CV"
      url: /CV/
-   - title: "Projects"
+   - title: "Research"
      url: /projects/HiWinGS/
   # - title: "Sample Collections"
   #   url: /collection-archive/

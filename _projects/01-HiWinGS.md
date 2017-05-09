@@ -20,7 +20,7 @@ The HiWinGS data set presents a unique opportunity to gain new insights on the p
 
 {% capture notice-text %}
 * **Brumer**, **S.E.** et al. On the dependence of whitecap coverage on environmental parameters observed during HiWinGS and SO GasEx. *JPO, in review*.
-* **Brumer**, **S.E.** et al., Wave-related Reynolds number parameterizations of CO<sup>2</sup> and DMS transfer velocities. *GRL, supmitted*.
+* **Brumer**, **S.E.** et al., Wave-related Reynolds number parameterizations of CO<sub>2</sub> and DMS transfer velocities. *GRL, supmitted*.
 {% endcapture %}
 
 <div class="notice--info">
