@@ -5769,12 +5769,6 @@ abbr[title].no-reformat:after, acronym[title].no-reformat:after {
 	display:none !important
 }
 }
-.image-caption {
-  text-align: center;
-  font-size: .8rem;
-  color: light-grey;
-}
-
 .wrapper-CV {
   font-family: 'Roboto', sans-serif;
   background: #4CAC9D;
