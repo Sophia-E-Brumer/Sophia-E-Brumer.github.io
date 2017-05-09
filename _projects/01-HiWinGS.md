@@ -19,7 +19,7 @@ The HiWinGS data set presents a unique opportunity to gain new insights on the p
 {% endcapture %}
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Time series of the 10-m neutral wind speed.</figcaption>
+  <figcaption><center>Time series of the 10-m neutral wind speed.</center></figcaption>
 </figure>
 
 {% capture notice-text %}
