@@ -5643,7 +5643,7 @@ body {
 	-webkit-font-smoothing:antialiased;
 	background:#fff !important;
 	color:#000 !important;
-	font-size:1rem;
+	font-size:0.75rem;
 	line-height:1.5;
 	margin:0 auto;
 	text-rendering:optimizeLegibility
