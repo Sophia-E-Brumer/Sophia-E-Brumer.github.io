@@ -72,7 +72,7 @@ social:
 # Analytics
 analytics:
    google:
-    tracking_id          :
+    tracking_id          : UA-99952185-1
 
 
 # Site Author
