@@ -17,7 +17,7 @@ While I did not participate in the cruise, I used the SO GasEx data in conjuncti
 
 {% capture notice-text %}
 * **Brumer**, **S.E.** et al., Wave-related Reynolds number parameterizations of CO<sub>2</sub> and DMS transfer velocities. (2017)*GRL*, 44. doi: 10.1002/2017GL074979.[pdf]({{ site.url }}/assets/sbrumer_GRL_2017GL074979_vaccepted.pdf)
-Blomquist, B.W., **S.E. Brumer** et al. (2017). Wind Speed and Sea State Dependencies of Air-Sea Gas Transfer: Results From the High Wind Speed Gas Exchange Study (HiWinGS). *JGR Oceans*, 2169-9291, doi: 10.1002/2017JC013181.[pdf]({{ site.url }}/assets/Blomquist_2017JC013181_vaccepted.pdf)
+* Blomquist, B.W., **S.E. Brumer** et al. (2017). Wind Speed and Sea State Dependencies of Air-Sea Gas Transfer: Results From the High Wind Speed Gas Exchange Study (HiWinGS). *JGR Oceans*, 2169-9291, doi: 10.1002/2017JC013181.[pdf]({{ site.url }}/assets/Blomquist_2017JC013181_vaccepted.pdf)
 * **Brumer**, **S.E.** et al. (2017) Whitecap Coverage Dependence on Wind and Wave Statistics as Observed during SO GasEx and HiWinGS. *J. Phys. Oceanogr.*, 47, 2211–2235, doi: 10.1175/JPO-D-17-0005.1.[pdf]({{ site.url }}/assets/sbrumer_JPO-D-17-0005_vaccepted.pdf)
 {% endcapture %}
 
