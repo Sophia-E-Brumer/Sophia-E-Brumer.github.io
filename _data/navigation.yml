@@ -7,7 +7,7 @@ main:
    - title: "CV"
      url: /CV/
    - title: "Research"
-     url: /projects/HiWinGS/
+     url: /projects/AMICO/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
@@ -16,6 +16,8 @@ main:
 projects:
     - title: Projects
       children:
+      - title: "AMICO"
+        url: /projects/AMICO/
       - title: "HiWinGS"
         url: /projects/HiWinGS/
       - title: "SO GasEx"
