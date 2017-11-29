@@ -6152,7 +6152,7 @@ ol.CV > li {
   position: relative;
 }
 ol.CV > li:before {
-  counter-increment: list;
+  counter-increment: list -1;
   content: '[' counter(list) '] ';
   position: absolute;
   left: -1.4em;
