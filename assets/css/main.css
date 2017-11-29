@@ -6144,4 +6144,8 @@ pCV {
   margin-bottom: 15px;
 }
 
-ol { padding-left: 1.2em; }
+ol.CV { padding-left: 1.8em; }
+ol.CV li:before {
+  content: '[' counter(o-counter) '] = ';
+  counter-increment: o-counter;
+}
