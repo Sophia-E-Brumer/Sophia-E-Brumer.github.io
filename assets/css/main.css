@@ -6145,7 +6145,10 @@ pCV {
 }
 
 ol.CV { padding-left: 1.8em; }
-ol.CV li::before {
-  content: '[' counter(item) '] ';
-  counter-increment: item;
+ol.CV > li {
+  list-style: none;
+}
+ol.CV > li:before {
+  content: '[' counter(list) '] ';
+  counter-increment: list;
 }
