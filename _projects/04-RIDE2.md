@@ -12,7 +12,8 @@ Office of Naval Research Awards N00014-11-1-0922 and N00014-15-1-2153.
 
 {% capture notice-text %}
 *  **Brumer**, **S.E.**, C.J. Zappa, S.P. Anderson and J.P. Dugan (2016). Riverine Skin Temperature Response to Subsurface Processes in Low Wind Speeds, *J. Geophys. Res. Oceans*, 121, doi:10.1002/2015JC010746. [pdf]({{ site.url }}/assets/Brumer_2016_JGR 10.1002-2015JC010746.pdf)
-Zappa, C.J., N.J.M. Laxague, **S.E. Brumer**, and S.P. Anderson ( 2019). The impact of wind gusts on the ocean thermal skin layer. *Geophysical Research Letters*, 46, 11301– 11309, doi: 10.1029/2019GL083687.
+
+* Zappa, C.J., N.J.M. Laxague, **S.E. Brumer**, and S.P. Anderson ( 2019). The impact of wind gusts on the ocean thermal skin layer. *Geophysical Research Letters*, 46, 11301– 11309, doi: 10.1029/2019GL083687.
 {% endcapture %}
 
 <div class="notice--info">
