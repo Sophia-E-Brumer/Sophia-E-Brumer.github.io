@@ -1,8 +1,8 @@
 ---
 title: "Welcome to my website!"
-permalink: /about_me/
+permalink: 
 excerpt: "Welcome!"
-last_modified_at: 2017-10-13
+last_modified_at: 2023-03-23
 ---
 Explore it to find out more about my research on ocean-atmosphere interactions. These interactions dictate the exchange of momentum, heat and material between the ocean and the atmosphere, playing a crucial role in Earth's weather and climate. 
 
