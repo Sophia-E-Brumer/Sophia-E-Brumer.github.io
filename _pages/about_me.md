@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my website!"
-permalink: 
+permalink: /
 excerpt: "Welcome!"
 last_modified_at: 2023-03-23
 ---
