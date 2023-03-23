@@ -1,9 +1,9 @@
 # main links
 main:
    - title: "Home"
-     url: /
-   - title: "About"
      url: /about_me/
+   #- title: "About"
+   #  url: /about_me/
    - title: "CV"
      url: /CV/
    - title: "Research"
@@ -16,6 +16,8 @@ main:
 projects:
     - title: Projects
       children:
+      - title: "CASSIOWPE"
+        url: /projects/CASSIOWPE/
       - title: "AMICO"
         url: /projects/AMICO/
       - title: "HiWinGS"
