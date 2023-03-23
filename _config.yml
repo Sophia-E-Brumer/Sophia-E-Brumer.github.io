@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 #theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+remote_theme: hydecorp/hydejack
 # Site Settings
 locale                   : "en"
 title                    : "Sophia E. Brumer"
