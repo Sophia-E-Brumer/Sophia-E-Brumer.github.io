@@ -6,7 +6,7 @@ fig_caption: true
 last_modified_at: 2022-03-20
 ---
 
-The goal of CASSIOWPE project is to develop a coupled ocean-wave-atmosphere model framework to coherently simulate met-ocean conditions in the Gulf of Lion (Mediterranean Sea)  in the prospective of future floating wind farm deployment.
+The goal of the [CASSIOWPE](https://www.france-energies-marines.org/en/projects/cassiowpe/) project is to develop a coupled ocean-wave-atmosphere model framework to coherently simulate met-ocean conditions in the Gulf of Lion (Mediterranean Sea)  in the prospective of future floating wind farm deployment.
 The framework is composed of the mesoscale non-hydrostatic atmospheric model of the French research community Meso-NH, the wave model of the 3rd generation WAVEWATCHIII, and the ocean model CROCO.
 My efforts consited in adding the impact of sea spray on momentum and heat fluxes to a chain of coupled ocean-wave-atmosphere models.
 In close collaboration with atmospheric and wave modelers from France Energies Marines (FEM) and LOPS as well as with oceanographers specialized in sea spray measurements, I have incorporated new algorithms into SURFEX, the surface model of Meso-NH.
